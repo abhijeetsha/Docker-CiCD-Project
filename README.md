@@ -9,10 +9,10 @@
 * docker-mysql-backend/
 * │
 * ├── backend/
-* │   ├── Dockerfile
-* │   ├── index.js
-* │   ├── db.js
-* │   ├── package.json
+* │     ├── Dockerfile
+* │     ├── index.js
+* │     ├── db.js
+* │     ├── package.json
 * │
 * ├── db/
 * │   └── init.sql
